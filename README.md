@@ -1,7 +1,7 @@
 # SWE201 Midterm – C# Console Application
 
 ## Student Information
-- **Name:** Lais Rifaioğlu
+- **Name:** Lath Rifaioğlu
 - **Student Number:** 245060001
 - **Course:** SWE201 – C# Programming
 
